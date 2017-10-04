@@ -1,0 +1,24 @@
+.menu-list{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.home-section{
+    float:left;
+    width: 10%;
+}
+.section{
+    margin-left: 10%;
+    float:left;
+}
+.photo{
+    padding-right: 5px;
+}
+
+.tasks {
+	padding-top:15px;
+	padding-bottom : 15px;
+}
+
+.mr15 {
+	margin-right:15px;
+}
